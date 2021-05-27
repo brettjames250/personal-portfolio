@@ -1,4 +1,10 @@
 # personal-portfolio
-Personal portfolio website developed with HTML, CSS and Javascript
+
+## Built with
+
+* HTML
+* CSS
+* Javascript
+* [Font Awesome](https://fontawesome.com/)
 
 https://brettjames250.github.io/personal-portfolio/
